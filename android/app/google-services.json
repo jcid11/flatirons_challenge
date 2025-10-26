@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074006567445",
+    "project_id": "flatirons-challenge",
+    "storage_bucket": "flatirons-challenge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074006567445:android:88527bcec43752d8b1fc1c",
+        "android_client_info": {
+          "package_name": "com.example.flatirons_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcYbCpf2SaNP-R2TcLsKvuJZEV1kAZ-eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

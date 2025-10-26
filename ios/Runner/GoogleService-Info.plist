@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBPDyJBW3Y5QYoif1lQqXlkX_HmU1yJTSo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1074006567445</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flatironsChallenge</string>
+	<key>PROJECT_ID</key>
+	<string>flatirons-challenge</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flatirons-challenge.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1074006567445:ios:002d432592d4b178b1fc1c</string>
+</dict>
+</plist>
