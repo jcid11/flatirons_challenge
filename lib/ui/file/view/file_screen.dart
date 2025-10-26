@@ -6,7 +6,7 @@ class FileScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final repo = context.read<UploadRepository>();
-    final messenger = ScaffoldMessenger.of(context); // <— stable messenger
+    final messenger = ScaffoldMessenger.of(context);
 
     return Scaffold(
       appBar: AppBar(title: const Text('Uploaded Files')),
